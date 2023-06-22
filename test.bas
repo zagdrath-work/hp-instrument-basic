@@ -1,0 +1,7 @@
+DEG
+A=25.3765477
+IF SIN (A) 2+COS(A) 2=1.0 THEN
+  PRINT "Equal"
+ELSE
+  PRINT "Not Equal"
+END IF
